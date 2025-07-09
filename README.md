@@ -29,3 +29,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishav9&" alt="Ishav9" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ishav9&show_icons=true&locale=en&layout=compact" alt="Ishav9" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ishav9" alt="Ishav9" /></a></p>
+
+![snake gif](https://github.com/ishav9/ishav9/blob/output/github-snake-dark.svg)
