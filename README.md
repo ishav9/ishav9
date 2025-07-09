@@ -1,7 +1,7 @@
 <div align="center">
 
-<h1>Hi 👋, I'm</h1>
-<p>A passionate frontend developer from</p>
+<h1>Hi 👋, I'm Isha Verma</h1>
+<p>A passionate frontend developer</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
 
